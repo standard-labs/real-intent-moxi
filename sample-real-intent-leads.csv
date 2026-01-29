@@ -1,0 +1,3 @@
+Sellers,Pre-Movers,first_name,last_name,email_1,email_2,phone_1,phone_1_dnc,phone_2,address,city,state,zip_code,insight
+x,,Jane,Smith,jane.smith@example.com,,5551234567,0,,123 Oak Ave,Los Angeles,CA,90210,Interested in selling in 6 months.
+,x,Bob,Jones,bob.jones@example.com,bob.j@work.com,4155550199,0,4155550100,456 Elm St,San Francisco,CA,94102,Pre-mover; first-time buyer.
